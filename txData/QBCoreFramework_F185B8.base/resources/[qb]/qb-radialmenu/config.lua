@@ -7,6 +7,14 @@ Config.Fliptime = 15000
 
 Config.MenuItems = {
     {
+        id = 'skills',
+        title = 'Check Skills',
+        icon = 'triangle-exclamation',
+        type = 'client',
+        event = 'cw-rep:client:CheckSkills',
+        shouldClose = true,
+    },
+    {
         id = 'citizen',
         title = 'Citizen',
         icon = 'user',

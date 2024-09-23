@@ -62,6 +62,16 @@ Config.SharedKeys = { -- Share keys amongst employees. Employees can lock/unlock
         vehicles = {
             'towtruck',
 	}
+    },
+
+    ['bus'] = {
+        requireOnduty = false,
+        vehicles = {
+            'bus',
+            'tourbus',
+            'tourbus',
+            'coach'
+	}
     }
 }
 
