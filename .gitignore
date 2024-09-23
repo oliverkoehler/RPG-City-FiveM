@@ -1,3 +1,8 @@
+/cfx
+/txData/default
+/txData/admins.json
+/txData/QBCoreFramework_F185B8.base/cache
+
 # Compiled Lua sources
 luac.out
 
@@ -39,3 +44,7 @@ luac.out
 *.x86_64
 *.hex
 
+
+txData/QBCoreFramework_F185B8.base/server.cfg
+
+txData/QBCoreFramework_F185B8.base/server.cfg.bkp
